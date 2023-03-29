@@ -1,5 +1,6 @@
 namespace Tamagochi;
 
-public interface Estado
+public interface IEstado
 {
+    public void Jugar();
 }
